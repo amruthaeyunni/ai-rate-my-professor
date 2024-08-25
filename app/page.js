@@ -67,11 +67,12 @@ export default function Home() {
       justifyContent="center" 
       paddingLeft={5}
       alignItems="left"
+      bgcolor='#ECFFDC'
     >
       <Box 
         width="380px" 
         height="100px" 
-        border="1px solid black"
+        border="1px solid white"
         display="flex" 
         alignItems="left" 
         justifyContent="center"
@@ -79,6 +80,8 @@ export default function Home() {
         paddingBottom={1}
         marginBottom={1}
         marginTop={1}
+        bgcolor="white"
+        boxShadow={16}
       >
         <Typography variant="h2" color="black">
           RateProf AI
@@ -88,7 +91,8 @@ export default function Home() {
         direction="column" 
         width="1800px" 
         height="700px" 
-        border="1px solid black" 
+        border="1px solid white" 
+        boxShadow={24}
         borderRadius={1}
         p={2} 
         spacing={3}
@@ -106,9 +110,9 @@ export default function Home() {
               >
                 <Box 
                   bgcolor={
-                    message.role === 'assistant' ? 'primary.main' : 'secondary.main'
+                    message.role === 'assistant' ? '#AFE1AF' : '#2AAA8A'
                   }
-                  color="white"
+                  color="black"
                   borderRadius={16}
                   p={3}
                 >
