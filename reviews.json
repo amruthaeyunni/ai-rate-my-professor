@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Roberts",
+        "subject": "Psychology 101",
+        "stars": 4,
+        "review": "Engaging lectures and very knowledgeable. Sometimes a bit too fast-paced, but overall a great professor."
+      },
+      {
+        "professor": "Dr. Michael Thompson",
+        "subject": "Computer Science 201",
+        "stars": 5,
+        "review": "Excellent professor. Clear explanations, helpful in office hours, and really cares about students."
+      },
+      {
+        "professor": "Dr. Sarah Johnson",
+        "subject": "Biology 110",
+        "stars": 3,
+        "review": "Material is interesting, but lectures can be dry. Attendance is important for understanding."
+      },
+      {
+        "professor": "Dr. Richard Davis",
+        "subject": "Mathematics 203",
+        "stars": 2,
+        "review": "Very difficult class. Exams are tough, and lectures can be confusing. Be prepared to work hard."
+      },
+      {
+        "professor": "Dr. Linda Martinez",
+        "subject": "History 102",
+        "stars": 4,
+        "review": "Great storyteller, makes history come alive. Sometimes hard to follow due to the amount of content covered."
+      },
+      {
+        "professor": "Dr. William Lee",
+        "subject": "Physics 220",
+        "stars": 5,
+        "review": "One of the best professors I've had. Very clear and approachable, and his enthusiasm for the subject is contagious."
+      },
+      {
+        "professor": "Dr. Jessica Walker",
+        "subject": "English Literature 150",
+        "stars": 3,
+        "review": "Interesting readings, but the grading is tough. Make sure to participate in discussions."
+      },
+      {
+        "professor": "Dr. John White",
+        "subject": "Chemistry 101",
+        "stars": 4,
+        "review": "Challenging class but very rewarding. Dr. White is always willing to help if you ask."
+      },
+      {
+        "professor": "Dr. Karen Hernandez",
+        "subject": "Sociology 200",
+        "stars": 5,
+        "review": "Amazing professor! She makes the material relatable and is very supportive of students."
+      },
+      {
+        "professor": "Dr. James Anderson",
+        "subject": "Political Science 101",
+        "stars": 2,
+        "review": "Lectures are not very engaging, and the exams are hard. Make sure to do all the readings."
+      },
+      {
+        "professor": "Dr. Patricia Wilson",
+        "subject": "Economics 101",
+        "stars": 3,
+        "review": "Good professor, but the class moves quickly. Be prepared to study a lot outside of class."
+      },
+      {
+        "professor": "Dr. Steven Clark",
+        "subject": "Philosophy 101",
+        "stars": 4,
+        "review": "Thought-provoking lectures and great discussions. Sometimes the material can be abstract."
+      },
+      {
+        "professor": "Dr. Mary Rodriguez",
+        "subject": "Anthropology 110",
+        "stars": 5,
+        "review": "Fascinating course with an excellent professor. Dr. Rodriguez is very passionate about the subject."
+      },
+      {
+        "professor": "Dr. David Lewis",
+        "subject": "Statistics 101",
+        "stars": 3,
+        "review": "Material can be dry, but Dr. Lewis is clear in his explanations. Make sure to attend lectures."
+      },
+      {
+        "professor": "Dr. Jennifer Clark",
+        "subject": "Art History 101",
+        "stars": 4,
+        "review": "Wonderful professor with a deep knowledge of the subject. Sometimes covers too much material too quickly."
+      },
+      {
+        "professor": "Dr. Robert King",
+        "subject": "Philosophy 201",
+        "stars": 5,
+        "review": "Incredible professor. He challenges students to think critically and makes every class interesting."
+      },
+      {
+        "professor": "Dr. Elizabeth Garcia",
+        "subject": "Literature 202",
+        "stars": 2,
+        "review": "Lectures are not very engaging, and the readings are dense. Difficult to stay motivated."
+      },
+      {
+        "professor": "Dr. Brian Scott",
+        "subject": "Engineering 301",
+        "stars": 4,
+        "review": "Very knowledgeable and supportive. The coursework is tough but fair. Great professor for those who are serious about engineering."
+      },
+      {
+        "professor": "Dr. Susan Harris",
+        "subject": "Psychology 202",
+        "stars": 3,
+        "review": "Interesting material, but the professor's lectures can be a bit disorganized. Participation is key."
+      },
+      {
+        "professor": "Dr. Charles Adams",
+        "subject": "Chemistry 201",
+        "stars": 5,
+        "review": "One of the best professors in the department. Clear explanations, fair grading, and genuinely wants students to succeed."
+      }
+    ]
+  }
+  
